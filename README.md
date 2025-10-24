@@ -29,10 +29,7 @@ Abra o endereço http://localhost:5173 (ou o que for indicado no seu terminal) n
 Contribuindo
 
 Anderson Teodoro
-
 Jonathan Cunha
-
 Marivaldo Lacerda
-
 Murilo Nascimento
 
