@@ -1,19 +1,19 @@
 {
-  "name": "Minhas Finanças",
+  "name": "Meu Gestor Financeiro",
   "short_name": "Finanças",
   "description": "Um aplicativo simples para gerenciar suas finanças pessoais.",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#f9fafb",
-  "theme_color": "#4f46e5",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://placehold.co/192x192/4f46e5/ffffff?text=F",
+      "src": "https://placehold.co/192x192/000000/ffffff?text=Fin",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://placehold.co/512x512/4f46e5/ffffff?text=F",
+      "src": "https://placehold.co/512x512/000000/ffffff?text=Finan%C3%A7as",
       "sizes": "512x512",
       "type": "image/png"
     }
