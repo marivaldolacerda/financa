@@ -26,13 +26,10 @@ npm run dev
 
 Abra o endereço http://localhost:5173 (ou o que for indicado no seu terminal) no seu navegador.
 
-Contribuindo
+## Contribuidores
 
-Anderson Teodoro
-
-Jonathan Cunha
-
-Marivaldo Lacerda
-
-Murilo Nascimento
+- Anderson Teodoro
+- Jonathan Cunha
+- Marivaldo Lacerda
+- Murilo Nascimento
 
